@@ -89,3 +89,7 @@ year={2023}
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kookseungji/Hawkes-Process-Based-on-Controlled-Differential-Equations&type=Date)](https://star-history.com/#kookseungji/Hawkes-Process-Based-on-Controlled-Differential-Equations&Date)
+
+## Acknowledgment
+
+This research is associated with the Korean national R&D project **“Developing a Sustainable Collaborative Multi-modal Lifelong Learning Framework” (Project No. 2022-0-00113)**, conducted within the *Human-Centered AI Core Technology Development* program, supported by the Ministry of Science and ICT (MSIT) and administered by the Institute of Information & Communications Technology Planning & Evaluation (IITP).
